@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\bin\Release\Library Management App.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\bin\Release\Library Management App.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\bin\Release\Library Management App.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.AdminLoginForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.BookInfo.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.BookInOut.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.BookSearch.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.LoginForm.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.MemberInfo.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.NARPLibrary.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\Library Management.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\Library Management App.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\Library Management App.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\Library Management System\Diary\obj\Release\BookInfo.IssueDetails.resources

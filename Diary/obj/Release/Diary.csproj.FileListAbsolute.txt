@@ -1,0 +1,9 @@
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\bin\Release\Diary.exe.config
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\bin\Release\Diary.exe
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\bin\Release\Diary.pdb
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.Diary.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.LoginForm.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.exe
+C:\Users\ASUS\documents\visual studio 2012\Projects\Diary\Diary\obj\Release\Diary.pdb
